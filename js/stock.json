@@ -1,0 +1,82 @@
+[
+    {
+      "id": 1,
+      "nombre": "pizza1",
+      "precio": 7,
+      "cantidad": 1,
+      "descripcion": "pizza1",
+      "img": "/imgs/pizza1-removebg-preview.png",
+      "descuento": true
+    },
+    {
+      "id": 2,
+      "nombre": "pizza2",
+      "precio": 10,
+      "cantidad": 1,
+      "descripcion": "pizza2",
+      "img": "/imgs/pizza2-removebg-preview.png",
+      "descuento": false
+    },
+    {
+      "id": 3,
+      "nombre": "pizza3",
+      "precio": 12,
+      "cantidad": 1,
+      "descripcion": "pizza3",
+      "img": "/imgs/pizza3-removebg-preview.png",
+      "descuento": false
+    },
+    {
+      "id": 4,
+      "nombre": "pizza1",
+      "precio": 7,
+      "cantidad": 1,
+      "descripcion": "pizza1",
+      "img": "/imgs/pizza1-removebg-preview.png",
+      "descuento": true
+    },
+    {
+      "id": 5,
+      "nombre": "pizza2",
+      "precio": 10,
+      "cantidad": 1,
+      "descripcion": "pizza2",
+      "img": "/imgs/pizza2-removebg-preview.png",
+      "descuento": false
+    },
+    {
+      "id": 6,
+      "nombre": "pizza3",
+      "precio": 12,
+      "cantidad": 1,
+      "descripcion": "pizza3",
+      "img": "/imgs/pizza3-removebg-preview.png",
+      "descuento": false
+    },{
+      "id": 7,
+      "nombre": "pizza1",
+      "precio": 7,
+      "cantidad": 1,
+      "descripcion": "pizza1",
+      "img": "/imgs/pizza1-removebg-preview.png",
+      "descuento": true
+    },
+    {
+      "id": 8,
+      "nombre": "pizza2",
+      "precio": 10,
+      "cantidad": 1,
+      "descripcion": "pizza2",
+      "img": "/imgs/pizza2-removebg-preview.png",
+      "descuento": false
+    },
+    {
+      "id": 9,
+      "nombre": "pizza3",
+      "precio": 12,
+      "cantidad": 1,
+      "descripcion": "pizza3",
+      "img": "/imgs/pizza3-removebg-preview.png",
+      "descuento": false
+    }
+]
